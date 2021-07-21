@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilagith (aka Luca Ilarda in the real world 🌍) 
+- 👋 Hi, I’m @ilagith 🌍 
 - 👀 I’m interested in machine learning, deep learning, and surival analysis 
 - 🌱 I’m currently learning nlp 
 - 💞️ I’m looking to collaborate on nlp projects 
