@@ -2,7 +2,9 @@
 
 MSc Data Science at Tilburg University 🇳🇱
 
-*Main interests:*  Machine Learning, Deep Learning, NLP, and Surival Analysis 
+*Main interests:*  Machine Learning, Deep Learning, NLP, and Surival Analysis.
+
+Reach me at luca.ilarda@gmail.com 📫
 
 ## 📈 GitHub Stats
 
