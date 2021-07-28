@@ -5,7 +5,7 @@
 
 ## Contacts 
 
-<a href=”https://www.linkedin.com/in/https://www.linkedin.com/in/luca-ilarda-b150b7193/> ![alt text](https://img.shields.io/badge/-LinkedIn-b150b7193/style=plastic&logo=linkedIn)</a>
+<a href=”https://https://www.linkedin.com/in/luca-ilarda-b150b7193/> ![alt text](https://img.shields.io/badge/-LinkedIn-b150b7193/style=plastic&logo=linkedIn)</a>
 
 ## 📈 GitHub Stats
 
