@@ -3,7 +3,11 @@
 - 👀 I’m interested in machine learning, deep learning, nlp, and surival analysis 
 - 📫 How to reach me: luca.ilarda@gmail.com
 
-# 📈 GitHub Stats
+## Contacts 
+
+<a href=”https://www.linkedin.com/in/https://www.linkedin.com/in/luca-ilarda-b150b7193/> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+
+## 📈 GitHub Stats
 
 ![ilagith’ GitHub stats](https://github-readme-stats.vercel.app/api?username=ilagith&theme=synthwave&show_icons=true&count_private=true “ilagith’ GitHub Stats”)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilagith&theme=synthwave “ilagith’ Top Languages Card”)
