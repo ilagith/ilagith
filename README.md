@@ -1,6 +1,6 @@
 # Hi! Welcome to @ilagith profile! 🌍 
 
-MSc Data Science at Tilburg University 🇳🇱
+MSc Data Science at Tilburg University 🦁🇳🇱
 
 *Main interests:*  Machine Learning, Deep Learning, NLP, and Surival Analysis.
 
