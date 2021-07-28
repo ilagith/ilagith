@@ -9,7 +9,7 @@
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<pin>/?username=<ilagith>&theme=<vue>" />
+![Ilagith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilagith&show_icons=true&theme=vue)
 
 
 <!---
