@@ -9,8 +9,8 @@
 
 ## 📈 GitHub Stats
 
-![ilagith’ GitHub stats](https://github-readme-stats.vercel.app/api?username=ilagith&theme=synthwave&show_icons=true&count_private=true “ilagith’ GitHub Stats”)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilagith&theme=synthwave “ilagith’ Top Languages Card”)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ilagith>&theme=<THEME_NAME>" />
+
 
 <!---
 ilagith/ilagith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
