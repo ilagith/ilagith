@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ilagith 🌍 
-- 👀 I’m interested in machine learning, deep learning, and surival analysis 
-- 🌱 I’m currently learning nlp 
-- 💞️ I’m looking to collaborate on nlp projects 
+- 👀 I’m interested in machine learning, deep learning, nlp, and surival analysis 
 - 📫 How to reach me: luca.ilarda@gmail.com
 
 <!---
