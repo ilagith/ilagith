@@ -8,7 +8,7 @@ Feel free to reach me at: luca.ilarda@gmail.com 📫
 
 ## 📈 Stats
 
-![Ilagith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilagith&show_icons=true&theme=vue)
+![Ilagith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilagith&show_icons=true&theme=vue&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilagith&langs_count=6)](https://github.com/ilagith/github-readme-stats)
 
 
